@@ -1,0 +1,10 @@
+This project consists in a dashboard based in a Netflix public dataset, available in https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies.
+The main idea of the dashboard is to summarize data from the titles and genres based in a filter that lists all the countries.
+This dataset was downloaded with all the titles genres and production countries in a unique title row. 
+It was a problem, because we didn't have a list of countries and the genres to make the dashboard work.
+So, there are scripts made in Python that read the dataset with the genres and countries and put into another datasets.
+OBS: to make the scripts works, first run the create_countries_dataset.ipynb.
+The comments and instructions are in the scripts.
+
+Thanks!
+Daniel Bueno
